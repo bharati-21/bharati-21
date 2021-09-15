@@ -90,5 +90,7 @@ Here are some ideas to get you started:
 
 <detals>
     <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="bharati-21" src="https://github-readme-stats-gold-gamma.vercel.app/api?username=bharati-21&show_icons=true&hide-border=false">
+    <br />
+    <img src="https://github-readme-stats-gold-gamma.vercel.app/api/top-langs/?username=bharati-21&layout=compact&theme=radical)"/>
+    <img align="left" alt="bharati-21" src="https://github-readme-stats-gold-gamma.vercel.app/api?username=bharati-21&show_icons=true&hide-border=false&layout=compact&theme=radical">
 </details>
