@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="left"/>
 </a>
 
-
+<br/>
 <br />
 <hr />
 <br/>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
+<br/>
 <hr />
 
 <br />
