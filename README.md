@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 </a>
 
 
-<br /><br/>
+<br />
 <hr />
-
+<br/>
 
 <h3>Blog Posts:</h3>
 
@@ -87,8 +87,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<br />
+
 <hr />
+
+<br />
 
 ### :zap: GitHub Stats
 
