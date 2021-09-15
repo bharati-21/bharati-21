@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </a>
   
 <a href="https://twitter.com/girlwhocodes" target="blank">
-    <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Handle" />
+    <img src="https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Handle" />
 </a>
 
 <a href="https://dev.to/bharati21">
