@@ -28,14 +28,24 @@ Here are some ideas to get you started:
 
 
 ### Connect with Me
-<a href="mailto:bharatisharada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail ID" align="left"/></a> 
+<a href="mailto:bharatisharada@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail ID" align="left"/>
+</a> 
   
-<a href="https://www.linkedin.com/in/bharati-subramanian-29734b152/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Handle" align="left"/></a>
+<a href="https://www.linkedin.com/in/bharati-subramanian-29734b152/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Handle" align="left"/>
+</a>
   
-<p><a href="https://twitter.com/girlwhocodes" target="blank"><img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Handle" /></a> </p>
+<a href="https://twitter.com/girlwhocodes" target="blank">
+    <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Handle" />
+</a>
 
-<p><a href="https://dev.to/bharati21"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="left"/></a></p>
+<a href="https://dev.to/bharati21">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="left"/>
+</a>
 
+
+<br /><br/>
 <hr />
 
 
