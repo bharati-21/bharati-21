@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <br />
 <hr />
 <br/>
-
 <h3>Blog Posts:</h3>
 
 - [JavaScript Loading Techniques & Performance](https://dev.to/bharati21/javascript-loading-techniques-performance-56lp)
@@ -91,7 +90,6 @@ Here are some ideas to get you started:
 <hr />
 
 <br />
-
 ### :zap: GitHub Stats
 
 <img src="https://github-readme-stats-gold-gamma.vercel.app/api/top-langs/?username=bharati-21&layout=compact&theme=radical)"/>
