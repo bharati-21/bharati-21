@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Handle" align="left"/>
 </a>
   
-<a href="https://twitter.com/girlwhocodes" target="blank">
+<a href="https://twitter.com/_girlwhocodes" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Handle" />
 </a>
 
