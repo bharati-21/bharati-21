@@ -87,13 +87,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
-<hr />
-
-<br />
-
-### :zap: GitHub Stats
-
-<img src="https://github-readme-stats-gold-gamma.vercel.app/api/top-langs/?username=bharati-21&layout=compact&theme=radical)"/>
-<img align="left" alt="bharati-21" src="https://github-readme-stats-gold-gamma.vercel.app/api?username=bharati-21&show_icons=true&hide-border=false&layout=compact&theme=radical">
-
