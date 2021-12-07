@@ -1,4 +1,4 @@
-### Hi there, I'm [Bharati Subramanian](https://bharati-portfolio.netlify.app/index.html) 👋
+### Hi there, I'm [Bharati Subramanian](https://bharati-21.github.io/) 👋
 
 <!--
 **bharati-21/bharati-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I love books, and I can sing well!
-- 🌐 [Portfolio](https://bharati-portfolio.netlify.app/index.html)
+- 🌐 [Portfolio](https://bharati-21.github.io/)
 
 <br />
 
