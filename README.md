@@ -1,89 +1,43 @@
-### Hi there, I'm [Bharati Subramanian](https://bharati-21.github.io/) 👋
+<h1 align="center">Hi 👋, I'm Bharati Subramanian</h1>
+<h3 align="center">I'm a Front end developer aspiring to become a Fullstack web developer, and UI/UX designer.</h3>
 
-<!--
-**bharati-21/bharati-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharati-21&label=Profile%20views&color=0e75b6&style=flat" alt="bharati-21" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/_bhaaratii" target="blank"><img src="https://img.shields.io/twitter/follow/_bhaaratii?logo=twitter&style=for-the-badge" alt="_bhaaratii" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in **Deloitte India (Offices of the U.S.)**
 
-## I'm a Front end developer aspiring to become a Fullstack web developer, and UI/UX designer!
+- 🌱 I’m currently learning **Redux, TypeScript**
 
-- 🔭 I’m currently working in Deloitte India (Offices of the US) as an Associate Analyst
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate with other developers
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I love books, and I can sing well!
-- 🌐 [Portfolio](https://bharati-21.github.io/)
+- 👯 I’m looking to collaborate on **web development**
 
-<br />
+- 👨‍💻 All of my projects are available at [https://bharati-21.github.io/](https://bharati-21.github.io/)
 
+- 📝 I regularly write articles on [https://dev.to/bharati21/](https://dev.to/bharati21/)
 
-### Connect with Me
-<a href="mailto:bharatisharada@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail ID" align="left"/>
-</a> 
-  
-<a href="https://www.linkedin.com/in/bharati-subramanian-29734b152/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Handle" align="left"/>
-</a>
-  
-<a href="https://twitter.com/_girlwhocodes" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Handle" />
-</a>
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
-<a href="https://dev.to/bharati21">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" align="left"/>
-</a>
+- 📫 How to reach me **bharatisharada@gmail.com**
 
-<br/>
-<br />
-<hr />
-<br/>
+- ⚡ Fun fact **I love collecting pens!**
 
-<h3>Blog Posts:</h3>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- [JavaScript Loading Techniques & Performance](https://dev.to/bharati21/javascript-loading-techniques-performance-56lp)
-- [Demystifying Position Property](https://dev.to/bharati21/demystifying-position-property-30kd)
-- [Responsive Fonts in CSS](https://dev.to/bharati21/responsive-fonts-in-css-m44)
-- [Introduction to Responsive Design](https://dev.to/bharati21/introduction-to-responsive-design-35hc)
-- [Common Use Cases of Flexbox](https://dev.to/bharati21/common-use-cases-of-css-flexbox-39ek)
-- [CSS Flexbox - Flex-Item Properties](https://dev.to/bharati21/css-flexbox-making-layouts-easy-part-2-4ok2)
-- [CSS Flexbox - Flex-Container Properties](https://dev.to/bharati21/css-flexbox-making-layout-design-easy-part-1-24l5)
-
-
-<h3>Tech Stack:</h3>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="PHP" />
-  
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  
-  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<a href="https://dev.to/bharati21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bharati21" height="30" width="40" /></a>
+<a href="https://twitter.com/_bhaaratii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bhaaratii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharati-subramanian-29734b152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharati-subramanian-29734b152/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bhaaratii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhaaratii" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharati-21&show_icons=true&locale=en&layout=compact" alt="bharati-21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharati-21&show_icons=true&locale=en" alt="bharati-21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharati-21&" alt="bharati-21" /></p>
