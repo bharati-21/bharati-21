@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_bhaaratii" target="blank"><img src="https://img.shields.io/twitter/follow/_bhaaratii?logo=twitter&style=for-the-badge" alt="_bhaaratii" /></a> </p>
 
-- 🔭 I’m currently working in **Deloitte India (Offices of the U.S.)**
+- 🔭 I’m currently working on [Social Media App](https://readers-space.netlify.app/)
 
 - 🌱 I’m currently learning **Redux, TypeScript**
 
@@ -31,6 +31,7 @@
 <a href="https://twitter.com/_bhaaratii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bhaaratii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharati-subramanian-29734b152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharati-subramanian-29734b152/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@bhaaratii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhaaratii" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhaaratii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhaaratii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
