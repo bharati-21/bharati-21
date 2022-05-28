@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Social Media App](https://readers-space.netlify.app/)
 
-- 🌱 I’m currently learning **Redux, TypeScript**
+- 🌱 I’m currently learning **JavaScript, React, Redux**
 
 - 👯 I’m looking to collaborate on **web development**
 
