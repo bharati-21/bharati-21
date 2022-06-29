@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_bhaaratii" target="blank"><img src="https://img.shields.io/twitter/follow/_bhaaratii?logo=twitter&style=for-the-badge" alt="_bhaaratii" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media App](https://readers-space.netlify.app/)
+- 🔭 I’m currently working on a quiz app based on React-TypeScript.
 
-- 🌱 I’m currently learning **JavaScript, React, Redux**
+- 🌱 I’m currently learning **TypeScript, Express, node.js**
 
 - 👯 I’m looking to collaborate on **web development**
 
