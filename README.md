@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_bhaaratii" target="blank"><img src="https://img.shields.io/twitter/follow/_bhaaratii?logo=twitter&style=for-the-badge" alt="_bhaaratii" /></a> </p>
 
-- 🔭 I’m currently working on a quiz app based on React-TypeScript.
+<!-- 🔭 I’m currently working on a quiz app based on React-TypeScript.-->
 
 - 🌱 I’m currently learning **TypeScript, Express, node.js**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bharati-21.github.io/](https://bharati-21.github.io/)
 
-- 📝 I regularly write articles on [https://dev.to/bharati21/](https://dev.to/bharati21/)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/bharati21/) and [Hashnode](https://hashnode.com/@bhaaratii)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Data Structures**
 
